@@ -49,9 +49,9 @@ class SpectraAnalysis():
     MAX : float
         Maximum wavelength value to be taken into consideration.
     folder : string
-        Folder in which the data spectra_MICA_LAB_info.csv is stored. Default is pyFRESCO/data.
+        Folder in which the data spectra_MICA_LAB_info.csv is stored. Default is astrogea_local/data.
     """
-    def __init__(self , final , final_error , m_spec , err_spec , n_spectra , n_err , wavelength , MIN , MAX , folder = 'pyfresco/data'):
+    def __init__(self , final , final_error , m_spec , err_spec , n_spectra , n_err , wavelength , MIN , MAX , folder = 'astrogea_local/data'):
         
         self.final = final # normalized spectrum
         self.final_error = final_error # normalized spectrum propagated error
