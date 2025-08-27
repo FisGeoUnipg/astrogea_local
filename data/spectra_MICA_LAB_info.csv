@@ -1,0 +1,32 @@
+﻿Mineral Name,Mineral Type,txt name CRISM,txt name LAB,CRISM spectra cube,Lab. Mineral,Type of Lab. From MICA,MICA Lab. Code,Type of Lab. From website,Notable Absorptions CRISM [nm],Notable Absoprtions LAB [nm],Sample Grain Size [mum]
+Fe Olivine,Nesosilicate,crism_spec_fe_olivine.txt,fe_olivine_LAB.txt,FRT00003E12,Fayalite,RELAB,LAPO05,GEO,"[850 , 1120 , 1300]","[900 , 1080 , 1300]",max 4
+Mg Olivine,Nesosilicate,crism_spec_mg_olivine.txt,mg_olivine_LAB.txt,FRT0000C26C,Forsterite,RELAB,LASC02,GEO,"[840 , 1050 , 1250]","[840 , 1050 , 1250]",max 90
+Epidote,Sorosilicate,crism_spec_epidote.txt,epidote_LAB.txt,FRT0000CBE5,Epidote,USGS,GDS26,USGS,"[None , 1540 , 2250 , 2330]","[1050 , 1540 , 2250 , 2330]",2000 x 1000
+High Ca Pyroxene,Inosilicate,crism_spec_high_ca_pyroxene.txt,high_ca_pyroxene_LAB.txt,FRT00009786,Pyroxene,RELAB,NBPP22,GEO,"[990 , 2160]","[1020 , 2260]",max 90
+Low Ca Pyroxene,Inosilicate,crism_spec_low_ca_pyroxene.txt,low_ca_pyroxene_LAB.txt,FRT000064D9,Orthopyroxene,RELAB,LAPP47B,GEO,"[910 , 1950]","[910 , 1860]",from 4 to 9
+Prehnite,Inosilicate,crism_spec_prehnite.txt,prehnite_LAB.txt,FRT000050F2,Zeolite/Prehnite,RELAB,LAZE03,GEO,"[1480 , 1900 , 2240 , 2290 , 2350 , 2470 , 2520]","[1480 , 1920 , 2240 , 2290 , 2360 , 2480 , 2530]",max 4
+Al Smectite,Phyllosilicate,crism_spec_al_smectite.txt,al_smectite_LAB.txt,FRT00003BFB,Montmorillonite,RELAB,LAMO02,GEO,"[1410 , 1910 , 2200]","[1410 , 1910 , 2210]",max 4
+Chlorite,Phyllosilicate,crism_spec_chlorite.txt,chlorite_LAB.txt,FRT0000A546,Chlorite,USGS,LACL14,GEO,"[None , None , 1410 , 1920 , 2000 , 2250 , 2350]","[700 , 890 , 1390 , None , 1990 , 2250 , 2330]",max 1
+Fe Smectite,Phyllosilicate,crism_spec_fe_smectite.txt,fe_smectite_LAB.txt,FRT0000A425,Nontronite,RELAB,NCJB26,GEO,"[None , 1420 ,1910 , 2290 , 2390 , 2520]","[930 , 1420 , 1900 , 2230 , 2280 , 2410 , 2500]",from 1 to 7
+Illite_Muscovite,Phyllosilicate,crism_spec_illite_muscovite.txt,illite_muscovite_LAB.txt,FRT0000454E,Illite,RELAB,LAIL02,GEO,"[1410 , 1930 , 2210 , 2350 , 2450]","[1420 , 1910 , 2220 , 2350 , 2450]",max 4
+Kaolinite,Phyllosilicate,crism_spec_kaolinite.txt,kaolinite_LAB.txt,FRT0000ABCB,Montmorillonite,RELAB,LAKA04,GEO,"[1390 , 1410 , 1920 , 2160 , 2210 , None , 2380]","[1400 , 1410 , 1920 , 2160 , 2210 , 2320 , 2390]",max 4
+Margarite,Phyllosilicate,crism_spec_margarite.txt,margarite_LAB.txt,FRT0000634B,Margarite,USGS,GDS106,USGS,"[1410 , 2000 , 2200 , 2250 , 2350 , 2470]","[1410 , 2000 , 2210 , 2260 , 2340 , 2440]",Not Given
+Mg Smectite,Phyllosilicate,crism_spec_mg_smectite.txt,mg_smectite_LAB.txt,FRT00009365,Saponite,RELAB,LASA58,GEO,"[1410 , 1920 , 2310 , 2390]","[1390 , 1910 , 2320 , 2390]",max 4
+Serpentine,Phyllosilicate,crism_spec_serpentine.txt,serpentine_LAB.txt,FRT0000634B,Serpentine,RELAB,LALZ01,GEO,"[1390 , 1960 , 2110 , 2320 , 2510]","[1390 , 1960 , 2120 , 2330 , 2510]",max 1
+Talc,Phyllosilicate,crism_spec_talc.txt,talc_LAB.txt,FRT0000A053,Talc,USGS,GDS23,USGS,"[1390 , 1910 , 2240 , 2310 , 2390 , 2470]","[1390 , 1910 , 2230 , 2320 , 2390 , 2470]",Not Given
+Analcime,Tectosilicate,crism_spec_analcime.txt,analcime_LAB.txt,FRT00009312,Analcime,RELAB,GDS1,USGS,"[None , None , 1420 , 1470 , 1780 , 1910 , None , 2520]","[970 , 1190 , 1420 , 1470 , 1790 , 1910 , 2130 , 2540]",120
+Plagioclase,Tectosilicate,crism_spec_plagioclase.txt,plagioclase_LAB.txt,FRT000082EE,Plagioclase,RELAB,NCLS04,GEO,[1320],[1270],max 0
+Hematite,Oxide,crism_spec_hematite.txt,hematite_LAB.txt,FRT0000B385,Hematite,USGS,GDS27,USGS,"[550 , 850]","[550 , 860]",Aggregate 200
+Chloride,Halide,crism_spec_chloride.txt,chloride_LAB.txt,FRT0000AB81,Halite,USGS,HS433,USGS,[None],[None],from 5 to 1200
+Fe Ca Carbonate,Carbonate,crism_spec_ca_fe_carbonate.txt,fe_ca_carbonate_LAB.txt,FRT0000A546,Calcite,RELAB,CAGR01,GEO,"[1910 , 2340 , 2530 , None , None , 3480 , 3840]","[2000 , 2340 , 2530 , 2790 , 3350 , 3480 , 3850]",max 50
+Mg Carbonate,Carbonate,crism_spec_mg_carbonate.txt,mg_carbonate_LAB.txt,FRT00003E12,Magnesite,RELAB,F1CC06B,GEO,"[1910 , 2310 , 2510 , None , 3460 , 3840]","[2000 , 2310 , 2500 , 3270 , 3430 , 3800]",from 2 to 7
+Alunite,Sulfate,crism_spec_alunite.txt,alunite_LAB.txt,FRT0000B252,Alunite,RELAB,F1CC08B,GEO,"[None , None , 1340 , 1430 , 1480 , 1770 , 2160 , None , 2320 , None , 2450 , 2510]","[1000 , 1270 , 1340 , 1430 , 1480 , 1770 , 2170 , 2210 , 2320 , 2430 , 2460 , 2510]",from 2 to 7
+Bassanite,Sulfate,crism_spec_bassanite.txt,bassanite_LAB.txt,FRT00009326,Bassanite,Clark et al. 1990,GDS145,USGS,"[None , 1430 , 1770 , 1920 , 2260 , 2490]","[1180 , 1430 , 1770 , 1920 , 2260 , 2480]",Not Given
+Gypsum,Sulfate,crism_spec_gypsum.txt,gypsum_LAB.txt,HRL0000CA5C,Gypsum,RELAB,LASF41A,RELAB,"[None , None , 1440 , 1490 , 1540 , 1750 , 1950 , 2210 , 2260 , 2480]","[1000 , 1200 , 1450 , 1490 , 1540 , 1750 , 1950 , 2220 , 2270 , 2480]",max 45
+Hydroxylated Fe-Sulfate,Sulfate,crism_spec_hydroxylated_fe_sulfate.txt,None,FRT000098B2,Ferric Hydroxysulfate,Lichtenberg et al. 2010,None,Lichtenberg et al. 2010,"[None , 1480 , 1820 , 1990 , None , 2190 , 2230 , 2360]","[950 , 1480 , 1820 , 1970 , 2160 , 2190 , 2230 , 2370]",X
+Jarosite,Sulfate,crism_spec_jarosite.txt,jarosite_LAB.txt,FRT000013F5B,Jarosite,RELAB,LASF21A,GEO,"[None , 900 , 1470 , None , 1850 , 2270 , None , None , None]","[640 , 910 , 1470 , 1540 , 1850 , 2270 , 2410 , 2460 , 2520]",max 4
+Monohydrated Sulfate,Sulfate,crism_spec_mono_hyd_sulf.txt,monohydrated_sulfate_LAB.txt,FRT0000A91C,Kieserite,RELAB,F1CC15,GEO,"[1630 , 1970 , 2140 , 2400]","[1620 , 1970 , 2140 , 2400]",max 7
+Polyhydrated Sulfate,Sulfate,crism_spec_poly_hyd_sulf.txt,polyhydrated_sulfate_LAB.txt,FRT00009C0A,Mg Sulfate,RELAB,799F366,GEO,"[None , None , 1430 , 1940 , 2430]","[980 , 1180 , 1440 , 1940 , 2420]",max 4
+Hydrated Silica,Mineraloid,crism_spec_hydrated_silica.txt,hydrated_silica_LAB.txt,FRT00009312,Silicious Sinder,RELAB,BKR1JB329C,RELAB,"[1420 , 1940 , 2210]","[1410 , 1910 , 2210]",max 212
+CO2 Ice,Ice,crism_spec_co2_ice.txt,None,FRT00007E26,CO2 Ice (2 mm),Hansen  1997,None,Hansen 1997,"[1440 , 1580 , 1990 , 2290 , 2350]","[1440 , 1580 , 1990 , 2290 , 2350]",X
+H2O Ice,Ice,crism_spec_h2o_ice.txt,h2o_ice.txt,HRL00002885,H2O Ice (77 K),Clark et al. 1990,GDS136,USGS,"[1030 , 1260 , 1480 , None , 2020]","[1040 , 1260 , 1500 , 1650 , 2020]",None
